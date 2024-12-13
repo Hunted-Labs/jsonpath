@@ -1,4 +1,4 @@
-module github.com/exponent-io/jsonpath
+module github.com/Hunted-Labs/jsonpath
 
 go 1.15
 
